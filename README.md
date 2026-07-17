@@ -171,7 +171,7 @@ PowerShell 5.1 reads `.ps1` files without BOM as ANSI. Accented characters in **
 ## Related projects
 
 - **[whatsapp-voice-transcriber](https://github.com/msemino/whatsapp-voice-transcriber)** — same whisper.cpp stack, but transcribes incoming WhatsApp voice notes automatically and sends the text back to you.
-- **[self-hosted-ai-lab](https://github.com/msemino/self-hosted-ai-lab)** — the 2-node system this recorder is part of (NUC 24/7 + RTX 3090 PC).
+- **[self-hosted-ai-lab](https://github.com/msemino/self-hosted-ai-lab)** — the 2-node system this recorder is part of (NUC 24/7 + 24 GB GPU PC).
 - **[local-agent-orchestrator](https://github.com/msemino/local-agent-orchestrator)** — Hermes AI orchestrator that consumes these transcriptions as input.
 
 ---
