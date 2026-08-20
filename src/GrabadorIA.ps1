@@ -1,4 +1,4 @@
-# GrabadorIA.ps1 — Local voice recorder: speak -> whisper.cpp -> clipboard
+﻿# GrabadorIA.ps1 — Local voice recorder: speak -> whisper.cpp -> clipboard
 # Requires: whisper.cpp build with CUDA in $WHISPER_DIR, ffmpeg on PATH
 # Usage: run via GrabarIA.vbs (hidden) or directly with -ExecutionPolicy Bypass
 # IMPORTANT: keep this file ASCII-only. PowerShell 5.1 parses it as ANSI;

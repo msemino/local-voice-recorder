@@ -1,4 +1,4 @@
-# install.ps1 — sets up GrabadorIA: copies files, creates autostart shortcut and Desktop shortcut.
+﻿# install.ps1 — sets up GrabadorIA: copies files, creates autostart shortcut and Desktop shortcut.
 # Run once with: powershell -ExecutionPolicy Bypass -File install.ps1
 #   -WhisperDir  : path where whisper.cpp is installed (default D:\whisper)
 #   -ModelName   : whisper model file (default ggml-large-v3.bin)
